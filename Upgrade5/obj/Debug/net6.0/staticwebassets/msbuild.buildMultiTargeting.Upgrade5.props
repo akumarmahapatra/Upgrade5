@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Upgrade5.props" />
+</Project>

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NVUFuYGxZELr1ol7XnEr/dBA6BFeAeqjDLzoqhgKqEJibllLCha+pK3mf6KZeSObjfbhXwSP+G5VYj76hqc2YQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Evince\\source\\repos\\Upgrade5\\Upgrade5\\Upgrade5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Evince\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.1\\microsoft.extensions.dependencyinjection.3.1.1.nupkg.sha512",
+    "C:\\Users\\Evince\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.1\\microsoft.extensions.dependencyinjection.abstractions.3.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
